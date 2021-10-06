@@ -5,7 +5,7 @@
 </p>
 
 # Guilherme Beserra
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Cientista de Dados* na Receita Federal do Brasil</sub>
 
 Como membro da Seção de Cruzamento de Dados e Desenvolvimento de Soluções (Sadav) na Superintendência da Receita Federal, participo de atividades relacionadas à prestação de serviço de preparação, qualificação e cruzamento de dados para as áreas usuárias gerencias da administração.
 
