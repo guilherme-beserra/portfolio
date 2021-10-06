@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-guilherme-red.svg)](https://www.linkedin.com/in/guilherme-beserra-a2551964/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/author-guilherme-red.svg)](https://www.linkedin.com/in/guilherme-beserra-a2551964/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/guilherme-beserra/DataScience)
 
 <p align="center">
   <img src="banner.png" >
@@ -14,13 +14,12 @@ Participante de projeto Nacional na criação e desenvolvimento de Dashboards pa
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/guilherme-beserra-a2551964/)
+* [Medium](https://guilherme-beserra.medium.com/)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os meus projetos publicados:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
