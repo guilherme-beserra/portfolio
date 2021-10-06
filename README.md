@@ -11,7 +11,7 @@ Como membro da Seção de Cruzamento de Dados e Desenvolvimento de Soluções (S
 
 Participante de projeto Nacional na criação e desenvolvimento de Dashboards para provimento de apoio à decisão para alta administração tributária e aduaneira.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Machine Learning, Business Inteligence.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/guilherme-beserra-a2551964/)
